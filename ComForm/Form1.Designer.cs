@@ -471,7 +471,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(43, 19);
             this.label9.TabIndex = 0;
-            this.label9.Text = "v0.01";
+            this.label9.Text = "v0.04";
             // 
             // lblRevice
             // 
